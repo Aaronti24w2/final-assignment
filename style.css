@@ -14,6 +14,7 @@ body{
     gap: 10px;
 }
 /* Here, I used a big main container to flex out everything.*/
+/* Gotta make sure this is committable.*/
 
 .middle-container {
     display: flex;

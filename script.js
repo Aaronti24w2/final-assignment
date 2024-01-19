@@ -10,6 +10,7 @@ document.addEventListener ('DOMContentLoaded', function () {
     // For some reason, getElementById doens't really work.
 
     // changed color of text to make it easier to read when changing to brighter background color.
+    // making sure this is committablee
     header.addEventListener('click', function () {
         header.style.backgroundColor = 'limegreen'
         header.style.color = 'black'
